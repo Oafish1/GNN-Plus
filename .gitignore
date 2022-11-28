@@ -1,5 +1,14 @@
 # Checkpoints
 *-checkpoint.*
 
+# Data
+data/
+
 # Saved Results
 saved_results/
+
+# Environment
+env/
+
+# Models
+*.h5

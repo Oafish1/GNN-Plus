@@ -1,0 +1,11 @@
+Astrocyte AUROC: 0.593
+Endothelial AUROC: 0.515
+GABAergic_neuron AUROC: 0.470
+GABAergic_PVALB_interneuron AUROC: 0.536
+GABAergic_SST_interneuron AUROC: 0.637
+GABAergic_VIP_interneuron AUROC: 0.670
+Glutamatergic_neuron AUROC: 0.521
+Microglia AUROC: 0.506
+Mural AUROC: 0.477
+Oligodendrocyte AUROC: 0.518
+OPC AUROC: 0.419
