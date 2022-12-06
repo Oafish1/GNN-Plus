@@ -1,0 +1,13 @@
+Astrocyte AUPRC: 0.339
+Endothelial AUPRC: 0.232
+Astrocyte AUPRC: 0.445
+Endothelial AUPRC: 0.356
+GABAergic_neuron AUPRC: 0.320
+GABAergic_PVALB_interneuron AUPRC: 0.379
+GABAergic_SST_interneuron AUPRC: 0.461
+GABAergic_VIP_interneuron AUPRC: 0.537
+Glutamatergic_neuron AUPRC: 0.337
+Microglia AUPRC: 0.263
+Mural AUPRC: 0.289
+Oligodendrocyte AUPRC: 0.400
+OPC AUPRC: 0.238
