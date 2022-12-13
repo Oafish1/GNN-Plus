@@ -1,13 +1,51 @@
-Astrocyte AUPRC: 0.339
-Endothelial AUPRC: 0.232
-Astrocyte AUPRC: 0.445
-Endothelial AUPRC: 0.356
-GABAergic_neuron AUPRC: 0.320
-GABAergic_PVALB_interneuron AUPRC: 0.379
-GABAergic_SST_interneuron AUPRC: 0.461
-GABAergic_VIP_interneuron AUPRC: 0.537
-Glutamatergic_neuron AUPRC: 0.337
-Microglia AUPRC: 0.263
-Mural AUPRC: 0.289
-Oligodendrocyte AUPRC: 0.400
-OPC AUPRC: 0.238
+Astrocyte (fold 4) AUPRC: 0.602
+Endothelial (fold 0) AUPRC: 0.685
+Endothelial (fold 1) AUPRC: 0.663
+Endothelial (fold 2) AUPRC: 0.583
+Endothelial (fold 3) AUPRC: 0.729
+Endothelial (fold 4) AUPRC: 0.620
+GABAergic_neuron (fold 0) AUPRC: 0.705
+GABAergic_neuron (fold 1) AUPRC: 0.534
+GABAergic_neuron (fold 2) AUPRC: 0.714
+GABAergic_neuron (fold 3) AUPRC: 0.530
+GABAergic_neuron (fold 4) AUPRC: 0.610
+GABAergic_PVALB_interneuron (fold 0) AUPRC: 0.717
+GABAergic_PVALB_interneuron (fold 1) AUPRC: 0.666
+GABAergic_PVALB_interneuron (fold 2) AUPRC: 0.802
+GABAergic_PVALB_interneuron (fold 3) AUPRC: 0.702
+GABAergic_PVALB_interneuron (fold 4) AUPRC: 0.770
+GABAergic_SST_interneuron (fold 0) AUPRC: 0.676
+GABAergic_SST_interneuron (fold 1) AUPRC: 0.678
+GABAergic_SST_interneuron (fold 2) AUPRC: 0.747
+GABAergic_SST_interneuron (fold 3) AUPRC: 0.688
+GABAergic_SST_interneuron (fold 4) AUPRC: 0.761
+GABAergic_VIP_interneuron (fold 0) AUPRC: 0.706
+GABAergic_VIP_interneuron (fold 1) AUPRC: 0.738
+GABAergic_VIP_interneuron (fold 2) AUPRC: 0.581
+GABAergic_VIP_interneuron (fold 3) AUPRC: 0.576
+GABAergic_VIP_interneuron (fold 4) AUPRC: 0.652
+Glutamatergic_neuron (fold 0) AUPRC: 0.607
+Glutamatergic_neuron (fold 1) AUPRC: 0.540
+Glutamatergic_neuron (fold 2) AUPRC: 0.626
+Glutamatergic_neuron (fold 3) AUPRC: 0.577
+Glutamatergic_neuron (fold 4) AUPRC: 0.560
+Microglia (fold 0) AUPRC: 0.686
+Microglia (fold 1) AUPRC: 0.636
+Microglia (fold 2) AUPRC: 0.647
+Microglia (fold 3) AUPRC: 0.724
+Microglia (fold 4) AUPRC: 0.594
+Mural (fold 0) AUPRC: 0.622
+Mural (fold 1) AUPRC: 0.632
+Mural (fold 2) AUPRC: 0.678
+Mural (fold 3) AUPRC: 0.615
+Mural (fold 4) AUPRC: 0.591
+Oligodendrocyte (fold 0) AUPRC: 0.681
+Oligodendrocyte (fold 1) AUPRC: 0.705
+Oligodendrocyte (fold 2) AUPRC: 0.656
+Oligodendrocyte (fold 3) AUPRC: 0.738
+Oligodendrocyte (fold 4) AUPRC: 0.687
+OPC (fold 0) AUPRC: 0.634
+OPC (fold 1) AUPRC: 0.618
+OPC (fold 2) AUPRC: 0.687
+OPC (fold 3) AUPRC: 0.612
+OPC (fold 4) AUPRC: 0.616
