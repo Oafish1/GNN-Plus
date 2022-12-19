@@ -6,6 +6,7 @@ data/
 
 # Saved Results
 saved_results/
+old_notebooks/
 
 # Environment
 env/
