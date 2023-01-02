@@ -13,3 +13,6 @@ env/
 
 # Models
 *.h5
+
+# Edges
+_elist.edg
