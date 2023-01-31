@@ -16,3 +16,6 @@ env/
 
 # Edges
 _elist.edg
+
+# Embeddings
+embeddings-*.npy
