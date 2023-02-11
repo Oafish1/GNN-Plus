@@ -6,6 +6,7 @@ data/
 
 # Saved Results
 saved_results/
+saved_embeddings/
 old_notebooks/
 
 # Environment
