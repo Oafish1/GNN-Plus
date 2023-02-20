@@ -1,9 +1,6 @@
 # Checkpoints
 *-checkpoint.*
 
-# Data
-data/
-
 # Saved Results
 saved_results/
 saved_embeddings/
