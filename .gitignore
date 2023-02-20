@@ -8,12 +8,13 @@ data/
 saved_results/
 saved_embeddings/
 old_notebooks/
+**/*Predictions.txt
 
 # Environment
 env/
 
 # Models
-*.h5
+models/**/*.h5
 
 # Edges
 _elist.edg
