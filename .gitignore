@@ -5,7 +5,7 @@
 saved_results/
 saved_embeddings/
 old_notebooks/
-**/*Predictions.txt
+**/old*/
 
 # Environment
 env/
