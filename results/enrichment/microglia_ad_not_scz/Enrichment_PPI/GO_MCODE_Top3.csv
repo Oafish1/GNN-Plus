@@ -1,0 +1,5 @@
+Network,Annotation
+MyList,GO:1900076|regulation of cellular response to insulin stimulus|-6.3;GO:0010942|positive regulation of cell death|-6.2;GO:0000165|MAPK cascade|-6.0
+MyList_MCODE_ALL,GO:0071345|cellular response to cytokine stimulus|-6.1;R-HSA-909733|Interferon alpha/beta signaling|-6.0;GO:0010942|positive regulation of cell death|-4.7
+MyList_SUB1_MCODE_1,GO:1901214|regulation of neuron death|-4.9;GO:0010639|negative regulation of organelle organization|-4.9;GO:0051640|organelle localization|-4.3
+MyList_SUB2_MCODE_2,R-HSA-909733|Interferon alpha/beta signaling|-7.3;R-HSA-913531|Interferon Signaling|-5.9;GO:0051607|defense response to virus|-5.6

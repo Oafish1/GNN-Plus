@@ -1,0 +1,178 @@
+Name,Category,CategoryID,GO,Description,PARENT_GO,LogP,Enrichment,Z-score,#TotalGeneInLibrary,#GeneInGO,#GeneInHitList,#GeneInGOAndHitList,%InGO,STDV %InGO,GeneID,Hits,Log(q-value)
+MyList,GO Biological Processes,19,GO:1900076,regulation of cellular response to insulin stimulus,19_GO:0050896 response to stimulus,-6.3,64,16,30182,73,26,4,15,7.1,2887|5468|5791|51043,GRB10|PPARG|PTPRE|ZBTB7B,-2.5
+MyList,GO Biological Processes,19,GO:0010942,positive regulation of cell death,19_GO:0048518 positive regulation of biological process,-6.2,13,8.9,30182,621,26,7,27,8.7,322|3663|4137|4605|5468|7098|120892,APBB1|IRF5|MAPT|MYBL2|PPARG|TLR3|LRRK2,-2.5
+MyList,GO Biological Processes,19,GO:0000165,MAPK cascade,19_GO:0023052 signaling,-6,28,11,30182,210,26,5,19,7.7,2185|2887|7098|51347|120892,PTK2B|GRB10|TLR3|TAOK3|LRRK2,-2.5
+MyList,GO Biological Processes,19,GO:0032727,positive regulation of interferon-alpha production,19_GO:0048518 positive regulation of biological process,-6,1.5e+02,21,30182,23,26,3,12,6.3,3661|3663|7098,IRF3|IRF5|TLR3,-2.5
+MyList,GO Biological Processes,19,GO:0071345,cellular response to cytokine stimulus,19_GO:0050896 response to stimulus,-5.7,11,8.2,30182,719,26,7,27,8.7,2185|3661|3663|4599|4605|7098|120892,PTK2B|IRF3|IRF5|MX1|MYBL2|TLR3|LRRK2,-2.4
+MyList,GO Biological Processes,19,GO:0080135,regulation of cellular response to stress,19_GO:0050896 response to stimulus,-5.7,11,8.2,30182,726,26,7,27,8.7,2185|4137|7098|8289|51043|51347|120892,PTK2B|MAPT|TLR3|ARID1A|ZBTB7B|TAOK3|LRRK2,-2.4
+MyList,GO Biological Processes,19,GO:0032647,regulation of interferon-alpha production,19_GO:0032501 multicellular organismal process,-5.7,1.2e+02,19,30182,29,26,3,12,6.3,3661|3663|7098,IRF3|IRF5|TLR3,-2.4
+MyList,GO Biological Processes,19,GO:0090140,regulation of mitochondrial fission,19_GO:0032502 developmental process,-5.6,1.2e+02,19,30182,30,26,3,12,6.3,4137|5468|120892,MAPT|PPARG|LRRK2,-2.4
+MyList,WikiPathways,27,WP4149,White fat cell differentiation,,-5.6,1.1e+02,18,30182,32,26,3,12,6.3,1879|3661|5468,EBF1|IRF3|PPARG,-2.4
+MyList,GO Biological Processes,19,GO:0032728,positive regulation of interferon-beta production,19_GO:0048518 positive regulation of biological process,-5.3,92,16,30182,38,26,3,12,6.3,3661|3663|7098,IRF3|IRF5|TLR3,-2.2
+MyList,GO Biological Processes,19,GO:0043068,positive regulation of programmed cell death,19_GO:0048518 positive regulation of biological process,-5.2,13,8.1,30182,553,26,6,23,8.3,322|3663|4605|5468|7098|120892,APBB1|IRF5|MYBL2|PPARG|TLR3|LRRK2,-2.1
+MyList,GO Biological Processes,19,GO:0030522,intracellular receptor signaling pathway,19_GO:0023052 signaling,-5,29,10,30182,160,26,4,15,7.1,2100|3661|5468|8289,ESR2|IRF3|PPARG|ARID1A,-1.9
+MyList,GO Biological Processes,19,GO:0032648,regulation of interferon-beta production,19_GO:0032501 multicellular organismal process,-4.8,62,13,30182,56,26,3,12,6.3,3661|3663|7098,IRF3|IRF5|TLR3,-1.8
+MyList,GO Biological Processes,19,GO:0043405,regulation of MAP kinase activity,19_GO:0008152 metabolic process,-4.7,25,9.6,30182,186,26,4,15,7.1,2185|5468|51347|120892,PTK2B|PPARG|TAOK3|LRRK2,-1.8
+MyList,GO Biological Processes,19,GO:0032481,positive regulation of type I interferon production,19_GO:0048518 positive regulation of biological process,-4.7,56,13,30182,62,26,3,12,6.3,3661|3663|7098,IRF3|IRF5|TLR3,-1.7
+MyList,GO Biological Processes,19,GO:0043549,regulation of kinase activity,19_GO:0008152 metabolic process,-4.6,9.7,6.9,30182,720,26,6,23,8.3,2185|4137|5468|7098|51347|120892,PTK2B|MAPT|PPARG|TLR3|TAOK3|LRRK2,-1.7
+MyList,GO Biological Processes,19,GO:0033674,positive regulation of kinase activity,19_GO:0048518 positive regulation of biological process,-4.5,14,7.7,30182,428,26,5,19,7.7,2185|4137|7098|51347|120892,PTK2B|MAPT|TLR3|TAOK3|LRRK2,-1.7
+MyList,GO Biological Processes,19,GO:0046626,regulation of insulin receptor signaling pathway,19_GO:0023052 signaling,-4.5,48,12,30182,72,26,3,12,6.3,2887|5791|51043,GRB10|PTPRE|ZBTB7B,-1.6
+MyList,Reactome Gene Sets,6,R-HSA-909733,Interferon alpha/beta signaling,,-4.5,48,12,30182,72,26,3,12,6.3,3661|3663|4599,IRF3|IRF5|MX1,-1.6
+MyList,GO Biological Processes,19,GO:0009725,response to hormone,19_GO:0050896 response to stimulus,-4.4,8.9,6.6,30182,784,26,6,23,8.3,2100|2185|2887|5468|8289|51043,ESR2|PTK2B|GRB10|PPARG|ARID1A|ZBTB7B,-1.5
+MyList,GO Biological Processes,19,GO:0042327,positive regulation of phosphorylation,19_GO:0048518 positive regulation of biological process,-4.3,8.9,6.6,30182,786,26,6,23,8.3,2185|4137|5468|7098|51347|120892,PTK2B|MAPT|PPARG|TLR3|TAOK3|LRRK2,-1.5
+MyList,GO Biological Processes,19,GO:0050848,regulation of calcium-mediated signaling,19_GO:0023052 signaling,-4.3,42,11,30182,82,26,3,12,6.3,2185|4137|120892,PTK2B|MAPT|LRRK2,-1.5
+MyList,GO Biological Processes,19,GO:0001819,positive regulation of cytokine production,19_GO:0048518 positive regulation of biological process,-4.3,12,7.1,30182,489,26,5,19,7.7,3661|3663|7098|51043|120892,IRF3|IRF5|TLR3|ZBTB7B|LRRK2,-1.5
+MyList,GO Biological Processes,19,GO:0051607,defense response to virus,19_GO:0044419 biological process involved in interspecies interaction between organisms,-4.2,18,8.1,30182,253,26,4,15,7.1,3661|3663|4599|7098,IRF3|IRF5|MX1|TLR3,-1.5
+MyList,GO Biological Processes,19,GO:0140546,defense response to symbiont,19_GO:0044419 biological process involved in interspecies interaction between organisms,-4.2,18,8.1,30182,254,26,4,15,7.1,3661|3663|4599|7098,IRF3|IRF5|MX1|TLR3,-1.5
+MyList,GO Biological Processes,19,GO:0071407,cellular response to organic cyclic compound,19_GO:0050896 response to stimulus,-4.2,11,6.9,30182,510,26,5,19,7.7,2100|3661|7098|8289|120892,ESR2|IRF3|TLR3|ARID1A|LRRK2,-1.5
+MyList,GO Biological Processes,19,GO:0051347,positive regulation of transferase activity,19_GO:0065007 biological regulation,-4.1,11,6.8,30182,522,26,5,19,7.7,2185|4137|7098|51347|120892,PTK2B|MAPT|TLR3|TAOK3|LRRK2,-1.4
+MyList,GO Biological Processes,19,GO:0046330,positive regulation of JNK cascade,19_GO:0023052 signaling,-4.1,37,10,30182,95,26,3,12,6.3,2185|7098|51347,PTK2B|TLR3|TAOK3,-1.4
+MyList,GO Biological Processes,19,GO:0043065,positive regulation of apoptotic process,19_GO:0048518 positive regulation of biological process,-4.1,11,6.7,30182,536,26,5,19,7.7,322|3663|4605|5468|7098,APBB1|IRF5|MYBL2|PPARG|TLR3,-1.4
+MyList,WikiPathways,27,WP75,Toll-like receptor signaling pathway,,-4,34,9.8,30182,103,26,3,12,6.3,3661|3663|7098,IRF3|IRF5|TLR3,-1.4
+MyList,KEGG Pathway,24,hsa04620,Toll-like receptor signaling pathway,,-4,33,9.7,30182,104,26,3,12,6.3,3661|3663|7098,IRF3|IRF5|TLR3,-1.4
+MyList,GO Biological Processes,19,GO:0032479,regulation of type I interferon production,19_GO:0032501 multicellular organismal process,-4,33,9.7,30182,104,26,3,12,6.3,3661|3663|7098,IRF3|IRF5|TLR3,-1.4
+MyList,GO Biological Processes,19,GO:0043406,positive regulation of MAP kinase activity,19_GO:0023052 signaling,-3.9,30,9.2,30182,117,26,3,12,6.3,2185|51347|120892,PTK2B|TAOK3|LRRK2,-1.3
+MyList,GO Biological Processes,19,GO:1901214,regulation of neuron death,19_GO:0050789 regulation of biological process,-3.8,14,7,30182,327,26,4,15,7.1,2185|4137|4605|120892,PTK2B|MAPT|MYBL2|LRRK2,-1.2
+MyList,GO Biological Processes,19,GO:0045859,regulation of protein kinase activity,19_GO:0008152 metabolic process,-3.8,9.3,6.1,30182,627,26,5,19,7.7,2185|5468|7098|51347|120892,PTK2B|PPARG|TLR3|TAOK3|LRRK2,-1.2
+MyList,GO Biological Processes,19,GO:0009755,hormone-mediated signaling pathway,19_GO:0023052 signaling,-3.7,27,8.7,30182,128,26,3,12,6.3,2100|5468|8289,ESR2|PPARG|ARID1A,-1.2
+MyList,GO Biological Processes,19,GO:0032874,positive regulation of stress-activated MAPK cascade,19_GO:0023052 signaling,-3.7,27,8.7,30182,129,26,3,12,6.3,2185|7098|51347,PTK2B|TLR3|TAOK3,-1.2
+MyList,GO Biological Processes,19,GO:0070304,positive regulation of stress-activated protein kinase signaling cascade,19_GO:0023052 signaling,-3.7,27,8.6,30182,131,26,3,12,6.3,2185|7098|51347,PTK2B|TLR3|TAOK3,-1.2
+MyList,GO Biological Processes,19,GO:1901699,cellular response to nitrogen compound,19_GO:0050896 response to stimulus,-3.7,9,6,30182,643,26,5,19,7.7,2887|3661|5468|7098|120892,GRB10|IRF3|PPARG|TLR3|LRRK2,-1.2
+MyList,GO Biological Processes,19,GO:0010639,negative regulation of organelle organization,19_GO:0048519 negative regulation of biological process,-3.7,14,6.9,30182,341,26,4,15,7.1,4137|5468|7879|120892,MAPT|PPARG|RAB7A|LRRK2,-1.2
+MyList,GO Biological Processes,19,GO:0031175,neuron projection development,19_GO:0032502 developmental process,-3.7,9,6,30182,647,26,5,19,7.7,322|2185|4137|51347|120892,APBB1|PTK2B|MAPT|TAOK3|LRRK2,-1.2
+MyList,GO Biological Processes,19,GO:0046328,regulation of JNK cascade,19_GO:0023052 signaling,-3.6,25,8.3,30182,139,26,3,12,6.3,2185|7098|51347,PTK2B|TLR3|TAOK3,-1.1
+MyList,GO Biological Processes,19,GO:0009615,response to virus,19_GO:0044419 biological process involved in interspecies interaction between organisms,-3.6,13,6.6,30182,363,26,4,15,7.1,3661|3663|4599|7098,IRF3|IRF5|MX1|TLR3,-1.1
+MyList,GO Biological Processes,19,GO:0019221,cytokine-mediated signaling pathway,19_GO:0023052 signaling,-3.6,13,6.6,30182,363,26,4,15,7.1,2185|3661|3663|4599,PTK2B|IRF3|IRF5|MX1,-1.1
+MyList,GO Biological Processes,19,GO:0045860,positive regulation of protein kinase activity,19_GO:0048518 positive regulation of biological process,-3.6,13,6.6,30182,364,26,4,15,7.1,2185|7098|51347|120892,PTK2B|TLR3|TAOK3|LRRK2,-1.1
+MyList,GO Biological Processes,19,GO:0045862,positive regulation of proteolysis,19_GO:0048518 positive regulation of biological process,-3.6,13,6.6,30182,365,26,4,15,7.1,2185|4137|5468|120892,PTK2B|MAPT|PPARG|LRRK2,-1.1
+MyList,GO Biological Processes,19,GO:0006979,response to oxidative stress,19_GO:0050896 response to stimulus,-3.6,13,6.6,30182,366,26,4,15,7.1,2119|2185|4137|120892,ETV5|PTK2B|MAPT|LRRK2,-1.1
+MyList,GO Biological Processes,19,GO:0071900,regulation of protein serine/threonine kinase activity,19_GO:0008152 metabolic process,-3.6,13,6.6,30182,369,26,4,15,7.1,2185|5468|51347|120892,PTK2B|PPARG|TAOK3|LRRK2,-1.1
+MyList,GO Biological Processes,19,GO:0043408,regulation of MAPK cascade,19_GO:0023052 signaling,-3.6,8.4,5.8,30182,695,26,5,19,7.7,2185|5468|7098|51347|120892,PTK2B|PPARG|TLR3|TAOK3|LRRK2,-1.1
+MyList,WikiPathways,27,WP4666,Hepatitis B infection,,-3.5,23,8,30182,151,26,3,12,6.3,2185|3661|7098,PTK2B|IRF3|TLR3,-1.1
+MyList,GO Biological Processes,19,GO:0010821,regulation of mitochondrion organization,19_GO:0050789 regulation of biological process,-3.5,23,8,30182,151,26,3,12,6.3,4137|5468|120892,MAPT|PPARG|LRRK2,-1.1
+MyList,GO Biological Processes,19,GO:0042326,negative regulation of phosphorylation,19_GO:0048519 negative regulation of biological process,-3.5,12,6.4,30182,383,26,4,15,7.1,2887|4137|5468|120892,GRB10|MAPT|PPARG|LRRK2,-1
+MyList,GO Biological Processes,19,GO:0001934,positive regulation of protein phosphorylation,19_GO:0048518 positive regulation of biological process,-3.5,8.1,5.6,30182,718,26,5,19,7.7,2185|5468|7098|51347|120892,PTK2B|PPARG|TLR3|TAOK3|LRRK2,-1
+MyList,KEGG Pathway,24,hsa05160,Hepatitis C,,-3.5,22,7.8,30182,157,26,3,12,6.3,3661|4599|7098,IRF3|MX1|TLR3,-1
+MyList,Reactome Gene Sets,6,R-HSA-1280215,Cytokine Signaling in Immune system,,-3.5,8,5.6,30182,730,26,5,19,7.7,2185|2887|3661|3663|4599,PTK2B|GRB10|IRF3|IRF5|MX1,-1
+MyList,WikiPathways,27,WP437,EGF/EGFR signaling pathway,,-3.4,21,7.7,30182,162,26,3,12,6.3,2185|2887|4605,PTK2B|GRB10|MYBL2,-1
+MyList,KEGG Pathway,24,hsa05161,Hepatitis B,,-3.4,21,7.7,30182,162,26,3,12,6.3,2185|3661|7098,PTK2B|IRF3|TLR3,-1
+MyList,GO Biological Processes,19,GO:0045087,innate immune response,19_GO:0044419 biological process involved in interspecies interaction between organisms,-3.4,7.8,5.5,30182,745,26,5,19,7.7,3661|3663|4599|5468|7098,IRF3|IRF5|MX1|PPARG|TLR3,-0.99
+MyList,GO Biological Processes,19,GO:0050727,regulation of inflammatory response,19_GO:0050896 response to stimulus,-3.4,11,6.1,30182,414,26,4,15,7.1,3661|5468|7098|120892,IRF3|PPARG|TLR3|LRRK2,-0.97
+MyList,GO Biological Processes,19,GO:1903706,regulation of hemopoiesis,19_GO:0002376 immune system process,-3.4,11,6.1,30182,415,26,4,15,7.1,2185|7098|8289|51043,PTK2B|TLR3|ARID1A|ZBTB7B,-0.97
+MyList,KEGG Pathway,24,hsa05164,Influenza A,,-3.4,20,7.5,30182,171,26,3,12,6.3,3661|4599|7098,IRF3|MX1|TLR3,-0.97
+MyList,GO Biological Processes,19,GO:0010469,regulation of signaling receptor activity,19_GO:0023052 signaling,-3.3,20,7.3,30182,177,26,3,12,6.3,2100|2185|5468,ESR2|PTK2B|PPARG,-0.93
+MyList,GO Biological Processes,19,GO:0042391,regulation of membrane potential,19_GO:0065007 biological regulation,-3.3,11,6,30182,433,26,4,15,7.1,287|2185|4137|120892,ANK2|PTK2B|MAPT|LRRK2,-0.92
+MyList,GO Biological Processes,19,GO:0045936,negative regulation of phosphate metabolic process,19_GO:0048519 negative regulation of biological process,-3.3,11,5.9,30182,439,26,4,15,7.1,2887|4137|5468|120892,GRB10|MAPT|PPARG|LRRK2,-0.91
+MyList,GO Biological Processes,19,GO:0010563,negative regulation of phosphorus metabolic process,19_GO:0048519 negative regulation of biological process,-3.3,11,5.9,30182,440,26,4,15,7.1,2887|4137|5468|120892,GRB10|MAPT|PPARG|LRRK2,-0.91
+MyList,GO Biological Processes,19,GO:0046777,protein autophosphorylation,19_GO:0008152 metabolic process,-3.3,19,7.1,30182,188,26,3,12,6.3,2185|51347|120892,PTK2B|TAOK3|LRRK2,-0.88
+MyList,GO Biological Processes,19,GO:1901652,response to peptide,19_GO:0050896 response to stimulus,-3.2,10,5.8,30182,456,26,4,15,7.1,2887|3663|5468|51043,GRB10|IRF5|PPARG|ZBTB7B,-0.86
+MyList,GO Biological Processes,19,GO:0032872,regulation of stress-activated MAPK cascade,19_GO:0023052 signaling,-3.2,18,7,30182,193,26,3,12,6.3,2185|7098|51347,PTK2B|TLR3|TAOK3,-0.86
+MyList,GO Biological Processes,19,GO:0071902,positive regulation of protein serine/threonine kinase activity,19_GO:0048518 positive regulation of biological process,-3.2,18,6.9,30182,195,26,3,12,6.3,2185|51347|120892,PTK2B|TAOK3|LRRK2,-0.85
+MyList,GO Biological Processes,19,GO:0070302,regulation of stress-activated protein kinase signaling cascade,19_GO:0023052 signaling,-3.2,18,6.9,30182,196,26,3,12,6.3,2185|7098|51347,PTK2B|TLR3|TAOK3,-0.84
+MyList,GO Biological Processes,19,GO:0051090,regulation of DNA-binding transcription factor activity,19_GO:0008152 metabolic process,-3.2,10,5.7,30182,465,26,4,15,7.1,2100|5468|7098|120892,ESR2|PPARG|TLR3|LRRK2,-0.84
+MyList,Reactome Gene Sets,6,R-HSA-913531,Interferon Signaling,,-3.2,17,6.8,30182,200,26,3,12,6.3,3661|3663|4599,IRF3|IRF5|MX1,-0.83
+MyList,GO Biological Processes,19,GO:0051051,negative regulation of transport,19_GO:0051179 localization,-3.1,9.6,5.6,30182,483,26,4,15,7.1,2185|2887|7879|120892,PTK2B|GRB10|RAB7A|LRRK2,-0.79
+MyList,GO Biological Processes,19,GO:0043410,positive regulation of MAPK cascade,19_GO:0023052 signaling,-3.1,9.4,5.5,30182,495,26,4,15,7.1,2185|7098|51347|120892,PTK2B|TLR3|TAOK3|LRRK2,-0.76
+MyList,GO Biological Processes,19,GO:0032870,cellular response to hormone stimulus,19_GO:0050896 response to stimulus,-3.1,9.3,5.5,30182,501,26,4,15,7.1,2100|2887|5468|8289,ESR2|GRB10|PPARG|ARID1A,-0.74
+MyList,GO Biological Processes,19,GO:0032868,response to insulin,19_GO:0050896 response to stimulus,-3.1,16,6.5,30182,217,26,3,12,6.3,2887|5468|51043,GRB10|PPARG|ZBTB7B,-0.74
+MyList,GO Biological Processes,19,GO:0034330,cell junction organization,19_GO:0009987 cellular process,-3,9.1,5.4,30182,513,26,4,15,7.1,287|2185|4137|120892,ANK2|PTK2B|MAPT|LRRK2,-0.72
+MyList,GO Biological Processes,19,GO:0034599,cellular response to oxidative stress,19_GO:0050896 response to stimulus,-3,16,6.4,30182,224,26,3,12,6.3,2119|4137|120892,ETV5|MAPT|LRRK2,-0.72
+MyList,GO Biological Processes,19,GO:0071396,cellular response to lipid,19_GO:0050896 response to stimulus,-3,8.8,5.3,30182,527,26,4,15,7.1,2100|2185|3661|8289,ESR2|PTK2B|IRF3|ARID1A,-0.68
+MyList,KEGG Pathway,24,hsa05171,Coronavirus disease - COVID-19,,-3,15,6.3,30182,232,26,3,12,6.3,3661|4599|7098,IRF3|MX1|TLR3,-0.68
+MyList,GO Biological Processes,19,GO:0032103,positive regulation of response to external stimulus,19_GO:0048518 positive regulation of biological process,-3,8.7,5.3,30182,532,26,4,15,7.1,2185|3661|7098|120892,PTK2B|IRF3|TLR3|LRRK2,-0.68
+MyList,GO Biological Processes,19,GO:0070201,regulation of establishment of protein localization,19_GO:0051179 localization,-2.9,8.6,5.2,30182,542,26,4,15,7.1,322|4137|5468|120892,APBB1|MAPT|PPARG|LRRK2,-0.66
+MyList,WikiPathways,27,WP382,MAPK signaling pathway,,-2.9,14,6.1,30182,247,26,3,12,6.3,4137|51347|120892,MAPT|TAOK3|LRRK2,-0.63
+MyList,GO Biological Processes,19,GO:0051345,positive regulation of hydrolase activity,19_GO:0065007 biological regulation,-2.9,8.2,5.1,30182,569,26,4,15,7.1,2185|4137|5468|120892,PTK2B|MAPT|PPARG|LRRK2,-0.59
+MyList,GO Biological Processes,19,GO:1903530,regulation of secretion by cell,19_GO:0051179 localization,-2.9,8.1,5,30182,572,26,4,15,7.1,322|5468|7879|120892,APBB1|PPARG|RAB7A|LRRK2,-0.59
+MyList,GO Biological Processes,19,GO:0045321,leukocyte activation,19_GO:0002376 immune system process,-2.8,8,5,30182,584,26,4,15,7.1,2185|4137|7098|51043,PTK2B|MAPT|TLR3|ZBTB7B,-0.56
+MyList,Reactome Gene Sets,6,R-HSA-1257604,PIP3 activates AKT signaling,,-2.8,13,5.8,30182,267,26,3,12,6.3,1912|2100|5468,PHC2|ESR2|PPARG,-0.55
+MyList,GO Biological Processes,19,GO:0032989,cellular component morphogenesis,19_GO:0032502 developmental process,-2.8,7.9,4.9,30182,590,26,4,15,7.1,287|322|51347|120892,ANK2|APBB1|TAOK3|LRRK2,-0.55
+MyList,GO Biological Processes,19,GO:0044057,regulation of system process,19_GO:0032501 multicellular organismal process,-2.8,7.9,4.9,30182,591,26,4,15,7.1,287|2185|5468|120892,ANK2|PTK2B|PPARG|LRRK2,-0.55
+MyList,GO Biological Processes,19,GO:0051091,positive regulation of DNA-binding transcription factor activity,19_GO:0008152 metabolic process,-2.8,13,5.8,30182,271,26,3,12,6.3,2100|5468|7098,ESR2|PPARG|TLR3,-0.54
+MyList,GO Biological Processes,19,GO:0006351,DNA-templated transcription,19_GO:0008152 metabolic process,-2.8,7.8,4.9,30182,599,26,4,15,7.1,4782|5468|10915|51043,NFIC|PPARG|TCERG1|ZBTB7B,-0.53
+MyList,GO Biological Processes,19,GO:0097659,nucleic acid-templated transcription,19_GO:0008152 metabolic process,-2.8,7.7,4.9,30182,601,26,4,15,7.1,4782|5468|10915|51043,NFIC|PPARG|TCERG1|ZBTB7B,-0.53
+MyList,GO Biological Processes,19,GO:0062197,cellular response to chemical stress,19_GO:0050896 response to stimulus,-2.8,13,5.7,30182,274,26,3,12,6.3,2119|4137|120892,ETV5|MAPT|LRRK2,-0.53
+MyList,GO Biological Processes,19,GO:0032774,RNA biosynthetic process,19_GO:0008152 metabolic process,-2.8,7.6,4.8,30182,612,26,4,15,7.1,4782|5468|10915|51043,NFIC|PPARG|TCERG1|ZBTB7B,-0.51
+MyList,GO Biological Processes,19,GO:1903532,positive regulation of secretion by cell,19_GO:0051179 localization,-2.7,12,5.6,30182,288,26,3,12,6.3,322|5468|7879,APBB1|PPARG|RAB7A,-0.48
+MyList,GO Biological Processes,19,GO:0051046,regulation of secretion,19_GO:0051179 localization,-2.7,7.4,4.7,30182,631,26,4,15,7.1,322|5468|7879|120892,APBB1|PPARG|RAB7A|LRRK2,-0.47
+MyList,Reactome Gene Sets,6,R-HSA-9006925,Intracellular signaling by second messengers,,-2.6,11,5.3,30182,309,26,3,12,6.3,1912|2100|5468,PHC2|ESR2|PPARG,-0.4
+MyList,GO Biological Processes,19,GO:0051047,positive regulation of secretion,19_GO:0051179 localization,-2.6,11,5.3,30182,316,26,3,12,6.3,322|5468|7879,APBB1|PPARG|RAB7A,-0.38
+MyList,GO Biological Processes,19,GO:1902105,regulation of leukocyte differentiation,19_GO:0002376 immune system process,-2.6,11,5.2,30182,319,26,3,12,6.3,7098|8289|51043,TLR3|ARID1A|ZBTB7B,-0.37
+MyList,GO Biological Processes,19,GO:0032409,regulation of transporter activity,19_GO:0065007 biological regulation,-2.6,11,5.2,30182,324,26,3,12,6.3,287|2185|5468,ANK2|PTK2B|PPARG,-0.36
+MyList,GO Biological Processes,19,GO:1903131,mononuclear cell differentiation,19_GO:0032502 developmental process,-2.6,11,5.2,30182,324,26,3,12,6.3,2185|5468|51043,PTK2B|PPARG|ZBTB7B,-0.36
+MyList,GO Biological Processes,19,GO:0006468,protein phosphorylation,19_GO:0008152 metabolic process,-2.6,6.8,4.5,30182,686,26,4,15,7.1,2185|7098|51347|120892,PTK2B|TLR3|TAOK3|LRRK2,-0.36
+MyList,GO Biological Processes,19,GO:0009617,response to bacterium,19_GO:0044419 biological process involved in interspecies interaction between organisms,-2.6,6.7,4.4,30182,696,26,4,15,7.1,3661|3663|7098|7879,IRF3|IRF5|TLR3|RAB7A,-0.34
+MyList,KEGG Pathway,24,hsa05165,Human papillomavirus infection,,-2.5,11,5.1,30182,331,26,3,12,6.3,3661|4599|7098,IRF3|MX1|TLR3,-0.34
+MyList,GO Biological Processes,19,GO:0051129,negative regulation of cellular component organization,19_GO:0048519 negative regulation of biological process,-2.5,6.6,4.4,30182,703,26,4,15,7.1,4137|5468|7879|120892,MAPT|PPARG|RAB7A|LRRK2,-0.33
+MyList,GO Biological Processes,19,GO:0001775,cell activation,19_GO:0032501 multicellular organismal process,-2.5,6.6,4.4,30182,705,26,4,15,7.1,2185|4137|7098|51043,PTK2B|MAPT|TLR3|ZBTB7B,-0.33
+MyList,GO Biological Processes,19,GO:0045596,negative regulation of cell differentiation,19_GO:0032502 developmental process,-2.5,6.5,4.4,30182,716,26,4,15,7.1,2185|5468|7098|51043,PTK2B|PPARG|TLR3|ZBTB7B,-0.31
+MyList,GO Biological Processes,19,GO:0006366,transcription by RNA polymerase II,19_GO:0008152 metabolic process,-2.5,10,5,30182,343,26,3,12,6.3,4782|5468|51043,NFIC|PPARG|ZBTB7B,-0.31
+MyList,GO Biological Processes,19,GO:0030162,regulation of proteolysis,19_GO:0008152 metabolic process,-2.5,6.4,4.3,30182,726,26,4,15,7.1,2185|4137|5468|120892,PTK2B|MAPT|PPARG|LRRK2,-0.29
+MyList,GO Biological Processes,19,GO:0045765,regulation of angiogenesis,19_GO:0032502 developmental process,-2.5,10,5,30182,349,26,3,12,6.3,2185|5468|7098,PTK2B|PPARG|TLR3,-0.29
+MyList,GO Biological Processes,19,GO:1901342,regulation of vasculature development,19_GO:0032502 developmental process,-2.5,9.8,4.9,30182,355,26,3,12,6.3,2185|5468|7098,PTK2B|PPARG|TLR3,-0.27
+MyList,GO Biological Processes,19,GO:0010038,response to metal ion,19_GO:0050896 response to stimulus,-2.4,9.5,4.8,30182,367,26,3,12,6.3,2185|4137|120892,PTK2B|MAPT|LRRK2,-0.24
+MyList,GO Biological Processes,19,GO:0043434,response to peptide hormone,19_GO:0050896 response to stimulus,-2.4,9.4,4.8,30182,369,26,3,12,6.3,2887|5468|51043,GRB10|PPARG|ZBTB7B,-0.23
+MyList,GO Biological Processes,19,GO:0045088,regulation of innate immune response,19_GO:0044419 biological process involved in interspecies interaction between organisms,-2.4,9.3,4.8,30182,373,26,3,12,6.3,3661|5468|7098,IRF3|PPARG|TLR3,-0.22
+MyList,GO Biological Processes,19,GO:0031347,regulation of defense response,19_GO:0050896 response to stimulus,-2.4,6.1,4.2,30182,767,26,4,15,7.1,3661|5468|7098|120892,IRF3|PPARG|TLR3|LRRK2,-0.22
+MyList,GO Biological Processes,19,GO:0002696,positive regulation of leukocyte activation,19_GO:0002376 immune system process,-2.4,9.2,4.7,30182,377,26,3,12,6.3,8289|51043|120892,ARID1A|ZBTB7B|LRRK2,-0.22
+MyList,GO Biological Processes,19,GO:0031349,positive regulation of defense response,19_GO:0048518 positive regulation of biological process,-2.3,8.9,4.6,30182,391,26,3,12,6.3,3661|7098|120892,IRF3|TLR3|LRRK2,-0.17
+MyList,GO Biological Processes,19,GO:0050867,positive regulation of cell activation,19_GO:0048518 positive regulation of biological process,-2.3,8.8,4.6,30182,394,26,3,12,6.3,8289|51043|120892,ARID1A|ZBTB7B|LRRK2,-0.17
+MyList,GO Biological Processes,19,GO:0030003,cellular monoatomic cation homeostasis,19_GO:0042592 homeostatic process,-2.3,8.6,4.5,30182,403,26,3,12,6.3,287|7879|120892,ANK2|RAB7A|LRRK2,-0.14
+MyList,GO Biological Processes,19,GO:0002521,leukocyte differentiation,19_GO:0032502 developmental process,-2.3,8.6,4.5,30182,406,26,3,12,6.3,2185|5468|51043,PTK2B|PPARG|ZBTB7B,-0.14
+MyList,GO Biological Processes,19,GO:0006873,cellular monoatomic ion homeostasis,19_GO:0042592 homeostatic process,-2.3,8.5,4.5,30182,412,26,3,12,6.3,287|7879|120892,ANK2|RAB7A|LRRK2,-0.12
+MyList,GO Biological Processes,19,GO:0001558,regulation of cell growth,19_GO:0040007 growth,-2.3,8.3,4.4,30182,420,26,3,12,6.3,2100|2185|4137,ESR2|PTK2B|MAPT,-0.1
+MyList,GO Biological Processes,19,GO:0006897,endocytosis,19_GO:0051179 localization,-2.2,8.2,4.4,30182,425,26,3,12,6.3,287|7879|120892,ANK2|RAB7A|LRRK2,-0.091
+MyList,GO Biological Processes,19,GO:0010720,positive regulation of cell development,19_GO:0032502 developmental process,-2.2,8.1,4.3,30182,432,26,3,12,6.3,4137|8289|51043,MAPT|ARID1A|ZBTB7B,-0.075
+MyList,Reactome Gene Sets,6,R-HSA-9012999,RHO GTPase cycle,,-2.2,7.8,4.2,30182,449,26,3,12,6.3,2185|7879|51347,PTK2B|RAB7A|TAOK3,-0.031
+MyList,GO Biological Processes,19,GO:0010975,regulation of neuron projection development,19_GO:0032502 developmental process,-2.2,7.7,4.2,30182,452,26,3,12,6.3,2185|4137|120892,PTK2B|MAPT|LRRK2,-0.026
+MyList,GO Biological Processes,19,GO:0048812,neuron projection morphogenesis,19_GO:0032502 developmental process,-2.2,7.6,4.2,30182,457,26,3,12,6.3,322|51347|120892,APBB1|TAOK3|LRRK2,-0.018
+MyList,GO Biological Processes,19,GO:1901987,regulation of cell cycle phase transition,19_GO:0050789 regulation of biological process,-2.2,7.6,4.2,30182,457,26,3,12,6.3,322|8289|51347,APBB1|ARID1A|TAOK3,-0.018
+MyList,GO Biological Processes,19,GO:0120039,plasma membrane bounded cell projection morphogenesis,19_GO:0032502 developmental process,-2.1,7.5,4.2,30182,462,26,3,12,6.3,322|51347|120892,APBB1|TAOK3|LRRK2,-0.008
+MyList,GO Biological Processes,19,GO:0002831,regulation of response to biotic stimulus,19_GO:0050896 response to stimulus,-2.1,7.5,4.2,30182,463,26,3,12,6.3,3661|5468|7098,IRF3|PPARG|TLR3,-0.008
+MyList,GO Biological Processes,19,GO:1903829,positive regulation of protein localization,19_GO:0051179 localization,-2.1,7.5,4.1,30182,467,26,3,12,6.3,322|4137|5468,APBB1|MAPT|PPARG,-0.003
+MyList,GO Biological Processes,19,GO:0048858,cell projection morphogenesis,19_GO:0032502 developmental process,-2.1,7.5,4.1,30182,467,26,3,12,6.3,322|51347|120892,APBB1|TAOK3|LRRK2,-0.003
+MyList,GO Biological Processes,19,GO:0045785,positive regulation of cell adhesion,19_GO:0048518 positive regulation of biological process,-2.1,7.2,4,30182,482,26,3,12,6.3,2185|8289|51043,PTK2B|ARID1A|ZBTB7B,0
+MyList,GO Biological Processes,19,GO:0032990,cell part morphogenesis,19_GO:0032502 developmental process,-2.1,7.2,4,30182,487,26,3,12,6.3,322|51347|120892,APBB1|TAOK3|LRRK2,0
+MyList,GO Biological Processes,19,GO:0002683,negative regulation of immune system process,19_GO:0002376 immune system process,-2.1,7.2,4,30182,487,26,3,12,6.3,5468|7098|51043,PPARG|TLR3|ZBTB7B,0
+MyList,GO Biological Processes,19,GO:0050804,modulation of chemical synaptic transmission,19_GO:0023052 signaling,-2.1,7.2,4,30182,487,26,3,12,6.3,2185|4137|120892,PTK2B|MAPT|LRRK2,0
+MyList,GO Biological Processes,19,GO:0099177,regulation of trans-synaptic signaling,19_GO:0023052 signaling,-2.1,7.1,4,30182,488,26,3,12,6.3,2185|4137|120892,PTK2B|MAPT|LRRK2,0
+MyList,GO Biological Processes,19,GO:0090066,regulation of anatomical structure size,19_GO:0065007 biological regulation,-2.1,7.1,4,30182,492,26,3,12,6.3,2185|4137|120892,PTK2B|MAPT|LRRK2,0
+MyList,GO Biological Processes,19,GO:0055080,monoatomic cation homeostasis,19_GO:0042592 homeostatic process,-2.1,7,4,30182,495,26,3,12,6.3,287|7879|120892,ANK2|RAB7A|LRRK2,0
+MyList,GO Biological Processes,19,GO:0044089,positive regulation of cellular component biogenesis,19_GO:0048518 positive regulation of biological process,-2,6.9,3.9,30182,503,26,3,12,6.3,2185|4137|7879,PTK2B|MAPT|RAB7A,0
+MyList,GO Biological Processes,19,GO:0031400,negative regulation of protein modification process,19_GO:0048519 negative regulation of biological process,-2,6.9,3.9,30182,503,26,3,12,6.3,4137|5468|120892,MAPT|PPARG|LRRK2,0
+MyList,GO Biological Processes,19,GO:0050801,monoatomic ion homeostasis,19_GO:0042592 homeostatic process,-2,6.9,3.9,30182,507,26,3,12,6.3,287|7879|120892,ANK2|RAB7A|LRRK2,0
+MyList,GO Biological Processes,19,GO:0051223,regulation of protein transport,19_GO:0051179 localization,-2,6.7,3.9,30182,517,26,3,12,6.3,322|5468|120892,APBB1|PPARG|LRRK2,0
+MyList,GO Biological Processes,19,GO:0051640,organelle localization,19_GO:0051179 localization,-2,6.7,3.9,30182,519,26,3,12,6.3,4137|7879|120892,MAPT|RAB7A|LRRK2,0
+MyList_MCODE_ALL,GO Biological Processes,19,GO:0071345,cellular response to cytokine stimulus,19_GO:0050896 response to stimulus,-6.1,23,10,30182,719,9,5,56,17,3661|3663|4599|4605|120892,IRF3|IRF5|MX1|MYBL2|LRRK2,-2.5
+MyList_MCODE_ALL,Reactome Gene Sets,6,R-HSA-909733,Interferon alpha/beta signaling,,-6,1.4e+02,20,30182,72,9,3,33,16,3661|3663|4599,IRF3|IRF5|MX1,-2.5
+MyList_MCODE_ALL,GO Biological Processes,19,GO:0010942,positive regulation of cell death,19_GO:0048518 positive regulation of biological process,-4.7,22,9,30182,621,9,4,44,17,3663|4137|4605|120892,IRF5|MAPT|MYBL2|LRRK2,-1.7
+MyList_MCODE_ALL,Reactome Gene Sets,6,R-HSA-913531,Interferon Signaling,,-4.6,50,12,30182,200,9,3,33,16,3661|3663|4599,IRF3|IRF5|MX1,-1.7
+MyList_MCODE_ALL,GO Biological Processes,19,GO:0051607,defense response to virus,19_GO:0044419 biological process involved in interspecies interaction between organisms,-4.3,40,11,30182,253,9,3,33,16,3661|3663|4599,IRF3|IRF5|MX1,-1.5
+MyList_MCODE_ALL,GO Biological Processes,19,GO:0140546,defense response to symbiont,19_GO:0044419 biological process involved in interspecies interaction between organisms,-4.3,40,11,30182,254,9,3,33,16,3661|3663|4599,IRF3|IRF5|MX1,-1.5
+MyList_MCODE_ALL,GO Biological Processes,19,GO:1901214,regulation of neuron death,19_GO:0050789 regulation of biological process,-4,31,9.3,30182,327,9,3,33,16,4137|4605|120892,MAPT|MYBL2|LRRK2,-1.4
+MyList_MCODE_ALL,GO Biological Processes,19,GO:0010639,negative regulation of organelle organization,19_GO:0048519 negative regulation of biological process,-3.9,30,9.1,30182,341,9,3,33,16,4137|7879|120892,MAPT|RAB7A|LRRK2,-1.3
+MyList_MCODE_ALL,GO Biological Processes,19,GO:0009615,response to virus,19_GO:0044419 biological process involved in interspecies interaction between organisms,-3.9,28,8.8,30182,363,9,3,33,16,3661|3663|4599,IRF3|IRF5|MX1,-1.3
+MyList_MCODE_ALL,GO Biological Processes,19,GO:0019221,cytokine-mediated signaling pathway,19_GO:0023052 signaling,-3.9,28,8.8,30182,363,9,3,33,16,3661|3663|4599,IRF3|IRF5|MX1,-1.3
+MyList_MCODE_ALL,GO Biological Processes,19,GO:0001819,positive regulation of cytokine production,19_GO:0048518 positive regulation of biological process,-3.5,21,7.5,30182,489,9,3,33,16,3661|3663|120892,IRF3|IRF5|LRRK2,-1
+MyList_MCODE_ALL,GO Biological Processes,19,GO:0071407,cellular response to organic cyclic compound,19_GO:0050896 response to stimulus,-3.4,20,7.4,30182,510,9,3,33,16,3661|8289|120892,IRF3|ARID1A|LRRK2,-1
+MyList_MCODE_ALL,GO Biological Processes,19,GO:0051640,organelle localization,19_GO:0051179 localization,-3.4,19,7.3,30182,519,9,3,33,16,4137|7879|120892,MAPT|RAB7A|LRRK2,-0.99
+MyList_MCODE_ALL,GO Biological Processes,19,GO:0043068,positive regulation of programmed cell death,19_GO:0048518 positive regulation of biological process,-3.3,18,7,30182,553,9,3,33,16,3663|4605|120892,IRF5|MYBL2|LRRK2,-0.93
+MyList_MCODE_ALL,GO Biological Processes,19,GO:0009617,response to bacterium,19_GO:0044419 biological process involved in interspecies interaction between organisms,-3,14,6.2,30182,696,9,3,33,16,3661|3663|7879,IRF3|IRF5|RAB7A,-0.72
+MyList_MCODE_ALL,GO Biological Processes,19,GO:0051129,negative regulation of cellular component organization,19_GO:0048519 negative regulation of biological process,-3,14,6.2,30182,703,9,3,33,16,4137|7879|120892,MAPT|RAB7A|LRRK2,-0.71
+MyList_MCODE_ALL,GO Biological Processes,19,GO:0080135,regulation of cellular response to stress,19_GO:0050896 response to stimulus,-3,14,6.1,30182,726,9,3,33,16,4137|8289|120892,MAPT|ARID1A|LRRK2,-0.68
+MyList_MCODE_ALL,Reactome Gene Sets,6,R-HSA-1280215,Cytokine Signaling in Immune system,,-3,14,6,30182,730,9,3,33,16,3661|3663|4599,IRF3|IRF5|MX1,-0.68
+MyList_MCODE_ALL,GO Biological Processes,19,GO:0045087,innate immune response,19_GO:0044419 biological process involved in interspecies interaction between organisms,-2.9,14,6,30182,745,9,3,33,16,3661|3663|4599,IRF3|IRF5|MX1,-0.66
+MyList_SUB1_MCODE_1,GO Biological Processes,19,GO:1901214,regulation of neuron death,19_GO:0050789 regulation of biological process,-4.9,55,13,30182,327,5,3,60,22,4137|4605|120892,MAPT|MYBL2|LRRK2,-1.9
+MyList_SUB1_MCODE_1,GO Biological Processes,19,GO:0010639,negative regulation of organelle organization,19_GO:0048519 negative regulation of biological process,-4.9,53,12,30182,341,5,3,60,22,4137|7879|120892,MAPT|RAB7A|LRRK2,-1.8
+MyList_SUB1_MCODE_1,GO Biological Processes,19,GO:0051640,organelle localization,19_GO:0051179 localization,-4.3,35,10,30182,519,5,3,60,22,4137|7879|120892,MAPT|RAB7A|LRRK2,-1.5
+MyList_SUB1_MCODE_1,GO Biological Processes,19,GO:0010942,positive regulation of cell death,19_GO:0048518 positive regulation of biological process,-4.1,29,9.1,30182,621,5,3,60,22,4137|4605|120892,MAPT|MYBL2|LRRK2,-1.4
+MyList_SUB1_MCODE_1,GO Biological Processes,19,GO:0051129,negative regulation of cellular component organization,19_GO:0048519 negative regulation of biological process,-3.9,26,8.6,30182,703,5,3,60,22,4137|7879|120892,MAPT|RAB7A|LRRK2,-1.3
+MyList_SUB2_MCODE_2,Reactome Gene Sets,6,R-HSA-909733,Interferon alpha/beta signaling,,-7.3,3.1e+02,31,30182,72,4,3,75,22,3661|3663|4599,IRF3|IRF5|MX1,-2.9
+MyList_SUB2_MCODE_2,Reactome Gene Sets,6,R-HSA-913531,Interferon Signaling,,-5.9,1.1e+02,18,30182,200,4,3,75,22,3661|3663|4599,IRF3|IRF5|MX1,-2.5
+MyList_SUB2_MCODE_2,GO Biological Processes,19,GO:0051607,defense response to virus,19_GO:0044419 biological process involved in interspecies interaction between organisms,-5.6,89,16,30182,253,4,3,75,22,3661|3663|4599,IRF3|IRF5|MX1,-2.4
+MyList_SUB2_MCODE_2,GO Biological Processes,19,GO:0140546,defense response to symbiont,19_GO:0044419 biological process involved in interspecies interaction between organisms,-5.6,89,16,30182,254,4,3,75,22,3661|3663|4599,IRF3|IRF5|MX1,-2.4
+MyList_SUB2_MCODE_2,GO Biological Processes,19,GO:0019221,cytokine-mediated signaling pathway,19_GO:0023052 signaling,-5.2,62,14,30182,363,4,3,75,22,3661|3663|4599,IRF3|IRF5|MX1,-2.1
+MyList_SUB2_MCODE_2,GO Biological Processes,19,GO:0009615,response to virus,19_GO:0044419 biological process involved in interspecies interaction between organisms,-5.2,62,14,30182,363,4,3,75,22,3661|3663|4599,IRF3|IRF5|MX1,-2.1
+MyList_SUB2_MCODE_2,GO Biological Processes,19,GO:0071345,cellular response to cytokine stimulus,19_GO:0050896 response to stimulus,-4.3,31,9.5,30182,719,4,3,75,22,3661|3663|4599,IRF3|IRF5|MX1,-1.5
+MyList_SUB2_MCODE_2,Reactome Gene Sets,6,R-HSA-1280215,Cytokine Signaling in Immune system,,-4.3,31,9.4,30182,730,4,3,75,22,3661|3663|4599,IRF3|IRF5|MX1,-1.5
+MyList_SUB2_MCODE_2,GO Biological Processes,19,GO:0045087,innate immune response,19_GO:0044419 biological process involved in interspecies interaction between organisms,-4.2,30,9.3,30182,745,4,3,75,22,3661|3663|4599,IRF3|IRF5|MX1,-1.5
