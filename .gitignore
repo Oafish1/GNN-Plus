@@ -18,6 +18,8 @@ _elist.edg
 
 # Embeddings
 embeddings-*.npy
+embeddings-*.txt
+mlp-*.txt
 
 # Refs
 reference/

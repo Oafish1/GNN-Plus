@@ -1,2 +1,0 @@
-percentile dim num_walks walk_length dropout lr gamma
-80 128 100 10 0.6 0.001 0.96
