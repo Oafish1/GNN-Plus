@@ -1,6 +1,9 @@
 # Checkpoints
 *-checkpoint.*
 
+# Cache
+__pycache__
+
 # Saved Results
 saved_results/
 saved_embeddings/

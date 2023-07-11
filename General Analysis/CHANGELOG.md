@@ -1,0 +1,9 @@
+### 2023-07-10
+- Add new plots
+- Code refactor in `General Analysis`
+- Many new functions for plotting and computation (e.g. `subset_graph`)
+- Reformat old plots
+- Switch to mosaic plotting
+
+### < 2023-07-10
+- Creation of the changelog
