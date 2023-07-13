@@ -24,5 +24,6 @@ embeddings-*.npy
 embeddings-*.txt
 mlp-*.txt
 
-# Refs
+# Refs and sources
 reference/
+sources/

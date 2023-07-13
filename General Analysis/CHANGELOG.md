@@ -1,5 +1,6 @@
-### 2023-07-12
+### 2023-07-12 (1-3)
 - Change to PDF
+- First figure version
 
 ### 2023-07-12
 - Reorganization
