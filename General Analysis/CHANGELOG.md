@@ -1,3 +1,7 @@
+### 2023-07-12
+- Reorganization
+- New plot format
+
 ### 2023-07-10
 - Add new plots
 - Code refactor in `General Analysis`
