@@ -1,6 +1,6 @@
-### 2023-07-12 (1-4)
+### 2023-07-13 (1-5)
 - Change to PDF
-- First figure version
+- First figure versions for `diffusion` and `data`
 
 ### 2023-07-12
 - Reorganization
