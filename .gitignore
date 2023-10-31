@@ -27,3 +27,6 @@ mlp-*.txt
 # Refs and sources
 reference/
 sources/
+
+# Saved files
+attentions.pkl
