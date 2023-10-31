@@ -9,6 +9,8 @@ saved_results/
 saved_embeddings/
 old_notebooks/
 **/old*/
+attentions.pkl
+results.csv
 
 # Environment
 env/
@@ -27,6 +29,3 @@ mlp-*.txt
 # Refs and sources
 reference/
 sources/
-
-# Saved files
-attentions.pkl
