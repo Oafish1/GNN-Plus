@@ -1,4 +1,8 @@
-### 2023-11-1
+### 2023-11-06
+- Change TF analysis to TG analysis
+- Reruns and visualization tweaks
+
+### 2023-11-01
 - Figure addition
 
 ### 2023-10-30 (1-2)
