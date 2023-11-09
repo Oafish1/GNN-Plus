@@ -1,3 +1,7 @@
+### 2023-11-08
+- Implement custom GCN
+- Implement graph aggregation
+
 ### 2023-11-07
 - Figure updates
 
