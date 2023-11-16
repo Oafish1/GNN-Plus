@@ -1,3 +1,9 @@
+### 2023-11-15
+- GCN experimentation
+- Jaccard and coregulation implementation
+- Gene list outputs and loss revisions
+- Other miscellaneous performance and stability changes
+
 ### 2023-11-08
 - Implement custom GCN
 - Implement graph aggregation
