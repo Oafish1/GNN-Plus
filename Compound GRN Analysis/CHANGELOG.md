@@ -1,3 +1,10 @@
+### 2023-11-29
+- Data filtering
+- Data normalization
+- GCN revisions
+- Label revisions and refinements
+- Many runs and performance/graph visualizations
+
 ### 2023-11-15
 - GCN experimentation
 - Jaccard and coregulation implementation
