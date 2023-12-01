@@ -1,3 +1,6 @@
+### 2023-11-30
+- Add SVM on adjacency matrix
+
 ### 2023-11-29
 - Data filtering
 - Data normalization
