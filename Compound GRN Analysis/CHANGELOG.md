@@ -1,3 +1,7 @@
+### 2023-12-05
+- Flow changes
+- New figure layout with placeholders
+
 ### 2023-11-30
 - Add SVM on adjacency matrix
 
