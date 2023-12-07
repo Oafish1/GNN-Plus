@@ -1,3 +1,9 @@
+### 2023-12-06
+- Add cytoscape visualizations for select networks
+- Add module analysis
+- Add performance visualizations
+- GCN revisions
+
 ### 2023-12-05
 - Flow changes
 - New figure layout with placeholders
