@@ -1,7 +1,8 @@
-### 2023-12-06
+### 2023-12-06 (1-2)
 - Add cytoscape visualizations for select networks
 - Add module analysis
 - Add performance visualizations
+- Figure updates
 - GCN revisions
 
 ### 2023-12-05
