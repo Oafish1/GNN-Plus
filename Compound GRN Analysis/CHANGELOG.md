@@ -1,10 +1,11 @@
-### 2023-12-12
+### 2023-12-12 (1-2)
 - 5FCV addition and visualization
 - Add epoch-based filtering to stat visualization
 - Add testing set to GCN
 - Additional runs
 - GCN updates
 - New Cytoscape visualization
+- Revise and refresh Cytoscape
 - Weight leakage fix
 
 ### 2023-12-06 (1-2)
