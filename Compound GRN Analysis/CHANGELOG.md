@@ -3,6 +3,8 @@
 - Add epoch-based filtering to stat visualization
 - Add testing set to GCN
 - Additional runs
+- Enrichment of sample fold
+- Figure update
 - GCN updates
 - New Cytoscape visualization
 - Revise and refresh Cytoscape
