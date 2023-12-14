@@ -9,7 +9,7 @@ saved_results/
 saved_embeddings/
 old_notebooks/
 **/old*/
-attentions.pkl
+attentions*.pkl
 results.csv
 
 # Environment
