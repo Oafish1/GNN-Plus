@@ -10,6 +10,7 @@ saved_embeddings/
 old_notebooks/
 **/old*/
 attentions*.pkl
+*_prs_df*
 results.csv
 
 # Environment
