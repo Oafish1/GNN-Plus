@@ -12,6 +12,8 @@ old_notebooks/
 attentions*.pkl
 *_prs_df*
 results.csv
+*_process.png
+*_process.pdf
 
 # Environment
 env/
