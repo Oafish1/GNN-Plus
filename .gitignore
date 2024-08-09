@@ -15,6 +15,10 @@ results.csv
 *_process.png
 *_process.pdf
 
+# Scripts
+graph-training.py
+embedding_analysis.py
+
 # Environment
 env/
 
