@@ -38,3 +38,6 @@ mlp-*.txt
 # Refs and sources
 reference/
 sources/
+
+# System files
+*.db
